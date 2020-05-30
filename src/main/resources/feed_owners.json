@@ -1,0 +1,11 @@
+{"feedId":1234,"ownerType":"group","ownerId":1111}
+{"feedId":1234,"ownerType":"user","ownerId":1111}
+{"feedId":1234,"ownerType":"user","ownerId":1112}
+{"feedId":2345,"ownerType":"group","ownerId":1113}
+{"feedId":2345,"ownerType":"user","ownerId":1114}
+{"feedId":3456,"ownerType":"group","ownerId":1115}
+{"feedId":4567,"ownerType":"user","ownerId":1116}
+{"feedId":5678,"ownerType":"user","ownerId":1114}
+{"feedId":5678,"ownerType":"user","ownerId":1116}
+{"feedId":5678,"ownerType":"group","ownerId":1117}
+{"feedId":5678,"ownerType":"group","ownerId":1118}

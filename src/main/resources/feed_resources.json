@@ -1,0 +1,13 @@
+{"feedId":1234,"resourceType":"POST","resourceId":1111}
+{"feedId":1234,"resourceType":"MOVIE","resourceId":1234}
+{"feedId":1234,"resourceType":"MOVIE","resourceId":2345}
+{"feedId":2345,"resourceType":"GROUP_PHOTO","resourceId":1234}
+{"feedId":2345,"resourceType":"MOVIE","resourceId":4567}
+{"feedId":2345,"resourceType":"MOVIE","resourceId":1112}
+{"feedId":3456,"resourceType":"MOVIE","resourceId":1113}
+{"feedId":3456,"resourceType":"MOVIE","resourceId":1114}
+{"feedId":4567,"resourceType":"USER_PHOTO","resourceId":1115}
+{"feedId":4567,"resourceType":"USER_PHOTO","resourceId":1116}
+{"feedId":4567,"resourceType":"POST","resourceId":1111}
+{"feedId":5678,"resourceType":"POST","resourceId":1111}
+{"feedId":5678,"resourceType":"USER_PHOTO","resourceId":1112}
